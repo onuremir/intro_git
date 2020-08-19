@@ -1,1 +1,1 @@
-print("Hello from githubbbbbbb text branch şimdi updateeeeee")
+print("Hello from githubbbbbbb updated")
